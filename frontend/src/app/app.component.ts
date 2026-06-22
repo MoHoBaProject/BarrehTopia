@@ -17,8 +17,8 @@ export class AppComponent {
 
   getMessage() {
     this.message = 'Loading...';
-    this.http.get('http://localhost:8080/api/message', { responseType: 'text' })
-      .subscribe({
+    this.http.get('/api/message', { responseType: 'text' })
+        .subscribe({
         next: (text) => this.message = text,
         error: () => this.message = 'Error: could not reach server'
       });
