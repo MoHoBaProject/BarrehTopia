@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df86fe42-5adc-40c3-8db9-e7bc3f94a093" name="Changes" comment="add simple format for home page.">
+      <change beforePath="$PROJECT_DIR$/.angular/cache/18.2.21/barrehtopia-frontend/.tsbuildinfo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/18.2.21/barrehtopia-frontend/angular-compiler.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/18.2.21/barrehtopia-frontend/angular-compiler.db-lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/18.2.21/barrehtopia-frontend/vite/deps/@angular_common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/18.2.21/barrehtopia-frontend/vite/deps/@angular_common.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/18.2.21/barrehtopia-frontend/vite/deps/@angular_common_http.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/18.2.21/barrehtopia-frontend/vite/deps/@angular_common_http.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/18.2.21/barrehtopia-frontend/vite/deps/@angular_core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/18.2.21/barrehtopia-frontend/vite/deps/@angular_core.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/18.2.21/barrehtopia-frontend/vite/deps/@angular_platform-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/18.2.21/barrehtopia-frontend/vite/deps/@angular_platform-browser.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/18.2.21/barrehtopia-frontend/vite/deps/@angular_router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/18.2.21/barrehtopia-frontend/vite/deps/@angular_router.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/18.2.21/barrehtopia-frontend/vite/deps/_metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/18.2.21/barrehtopia-frontend/vite/deps/chunk-P73P33NA.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/18.2.21/barrehtopia-frontend/vite/deps/chunk-P73P33NA.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/18.2.21/barrehtopia-frontend/vite/deps/chunk-RMC3FE74.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/18.2.21/barrehtopia-frontend/vite/deps/chunk-RMC3FE74.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/18.2.21/barrehtopia-frontend/vite/deps/chunk-WO4GTBY6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/18.2.21/barrehtopia-frontend/vite/deps/chunk-WO4GTBY6.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/18.2.21/barrehtopia-frontend/vite/deps/chunk-XWLBARXR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/18.2.21/barrehtopia-frontend/vite/deps/chunk-XWLBARXR.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/18.2.21/barrehtopia-frontend/vite/deps/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/18.2.21/barrehtopia-frontend/vite/deps_temp_5eba7f29/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frontend.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/barrehtopia-frontend/3rdpartylicenses.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/barrehtopia-frontend/browser/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/barrehtopia-frontend/browser/main-ECQY7C5P.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/barrehtopia-frontend/browser/polyfills-FFHMD2TL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/barrehtopia-frontend/browser/styles-PEZPR2UW.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proxy.conf.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.routes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/home/home.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/home/home.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/home/home.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/navbar/navbar.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/navbar/navbar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/navbar/navbar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MoHoBaProject&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MoHoBaProject/BarrehTopia.git&quot;,
+    &quot;accountId&quot;: &quot;e6663f92-a526-4234-a9b3-e71ab4e209a5&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3FV7Ju1vkFgjEqYQPjeNzDxycP4" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/wwwma/OneDrive/Desktop/MohammadHossein/Project/BarrehTopia/frontend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.Angular CLI Server.executor&quot;: &quot;Run&quot;,
+    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\wwwma\\OneDrive\\Desktop\\MohammadHossein\\Project\\BarrehTopia\\frontend\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wwwma\OneDrive\Desktop\MohammadHossein\Project\BarrehTopia\frontend" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.39" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.39" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df86fe42-5adc-40c3-8db9-e7bc3f94a093" name="Changes" comment="" />
+      <created>1782148314363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782148314363</updated>
+      <workItem from="1782148315513" duration="5298000" />
+      <workItem from="1782833983545" duration="1905000" />
+    </task>
+    <task id="LOCAL-00001" summary="add simple format for home page.">
+      <option name="closed" value="true" />
+      <created>1782152572144</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1782152572144</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="start project from intellij." />
+    <MESSAGE value="add simple format for home page." />
+    <option name="LAST_COMMIT_MESSAGE" value="add simple format for home page." />
+  </component>
+</project>
